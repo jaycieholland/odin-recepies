@@ -1,5 +1,5 @@
 .homepage {
-  background-color: wheat;
+  background-color: #78a1bb;
 }
 button {
   background-color: wheat;
@@ -37,13 +37,12 @@ button {
 }
 
 img {
-  /* max-width: 400px;
-  -ms-flex-align: center; */
   max-width: 90%;
   height: auto;
   border-radius: 20px;
   margin: 15px;
 }
+
 img:hover {
   opacity: 0.7;
 }

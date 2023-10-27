@@ -1,0 +1,22 @@
+#akpage {
+  padding-left: 35px;
+}
+h1 {
+  font-family: Bree Serif;
+  font-size: 65px;
+  color: #283044;
+}
+
+body {
+  background-color: #ebf5ee;
+}
+p {
+  color: #283044;
+  font-family: poppins;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+ul {
+  color: #8b786d;
+}
