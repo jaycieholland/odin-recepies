@@ -1,22 +1,61 @@
 #akpage {
-  padding-left: 35px;
+  padding-left: 55px;
+  margin-left: 30px;
+  background-color: white;
+  border-radius: 10px;
 }
 h1 {
-  font-family: Bree Serif;
+  font-family: 'League Spartan', sans-serif;
   font-size: 65px;
   color: #283044;
+  padding-top: 30px;
+  margin-bottom: 0;
 }
 
 body {
+  grid-template-columns: auto;
+  max-width: 800px;
   background-color: #ebf5ee;
 }
 p {
   color: #283044;
-  font-family: poppins;
+  font-family: 'Roboto', sans-serif;
   font-size: 20px;
-  font-weight: 600;
+  margin-right: 40px;
 }
 
 ul {
+  color: #283044;
+  font-family: 'Mohave', sans-serif;
+  font-size: 18px;
+  margin-top: 6px;
+}
+ol {
+  color: #283044;
+  font-family: 'Mohave', sans-serif;
+  font-size: 18px;
+  margin-right: 60px;
+  padding-bottom: 75px;
+}
+
+img {
+  /* border-radius: 10px; */
+  filter: drop-shadow(0 0 0.1rem gray);
+  display: block;
+}
+
+h3 {
+  color: #78a1bb;
+  font-family: poppins;
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+
+h4 {
+  /* color: #283044; */
   color: #8b786d;
+  font-family: 'Dancing Script', cursive;
+  font-size: 31px;
+  margin-top: 25px;
+  margin-bottom: 5px;
 }

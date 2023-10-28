@@ -1,24 +1,10 @@
 .homepage {
   background-color: #78a1bb;
 }
-button {
-  background-color: wheat;
-  font-family: 'Mohave', sans-serif;
-  border-radius: 4px;
-  border: none;
-  font-size: 20px;
-  margin: 20px;
-  padding: 6px;
-  transition-duration: 0.4s;
-  .button2:hover {
-    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
-      0 17px 50px 0 rgba(0, 0, 0, 0.19);
-  }
-}
 
 .homepagetitle {
   color: white;
-  font-family: Bree Serif;
+  font-family: 'Libre Bodoni', serif;
   font-size: 72px;
   text-align: center;
   padding-bottom: 10px;
